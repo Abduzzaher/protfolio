@@ -38,3 +38,19 @@
 
 
 /* profile ends here*/
+
+/* aboutme start here*/
+
+.aboutme-image{
+    margin-top: 100px;
+}
+.aboutme-image img{
+    height: 300px;
+    width: 300px;
+}
+.aboutme-desc p{
+  text-align: left;
+}
+
+
+/* aboutme ends here*/
